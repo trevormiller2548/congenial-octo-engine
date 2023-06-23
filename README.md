@@ -3,7 +3,7 @@
 
   
   ## Description 
-  This is a professional README generator 
+  This is a generator that creates professional readmes
 
   ## Table of Contents
   * [Installation](#installation)
@@ -14,16 +14,16 @@
   * [Questions](#questions)
   
   ## Installation 
-  I had to install inquirer and a package.json file and then write code with those programs to make the generator work.
+  I had to install package.json and node modules and then create code that works with those programs
 
   ## Usage 
-  You open the terminal and type node index.js and then fill out the prompts. When your done, your new readme will appear in the readme file. 
+  You pull up the project in the terminal and then enter node index.js. You then fill out the prompt and it populates in the readme.me file.
 
   ## License 
   This project is license under MIT
 
   ## Contributing 
-  This is a solo project so that doesn't really apply.
+  It's a single person project, so that's not really a problem with this project
 
   ## Tests
   node index.js
