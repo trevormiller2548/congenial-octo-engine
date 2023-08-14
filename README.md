@@ -1,9 +1,9 @@
-# fluffy-invention
+# literate-rotary-phone
   ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
   
   ## Description 
-  This project allows you to  make a logo quickly without the help of a graphic designer. It uses inquir eto  build a prompt and  an  SVG to create the image.
+  This is weather dashboard that gives you the current date and a 5-day forecast. It also saves your recent searches to local storage. 
 
   ## Table of Contents
   * [Installation](#installation)
@@ -14,27 +14,19 @@
   * [Questions](#questions)
   
   ## Installation 
-  I started with a gitnore file, then I installed inquire to create the prompts, jest to allow for testing, SVG files to create the colors, shapes and test colors, and then I wrote the index.js file to execute the code.
+  This project relies on an api that gives my site the current weather and a 5-day forescast of any city in the US. 
 
   ## Usage 
-  First, you want to test it. You do this by pulling up the terminal and typing npm run test. Then you type node index.js and fill out the prompt. 
+  You search for a city at the top and you'll be presented with the weather info.
 
   ## License 
   This project is license under MIT
 
   ## Contributing 
-  n/a
+  Feel free to fork the repo and make whatever changes you'd like. 
 
   ## Tests
-  npm run test
+  There was no test used in this project. 
 
   ## Questions
   If you have any questions about this projects, please contact me directly at trevor.miller2548@gmail.com. You can view more of my projects at https://github.com/trevormiller2548.
-
-  Live site: https://trevormiller2548.github.io/congenial-octo-engine/
-
- 
-
-https://github.com/trevormiller2548/congenial-octo-engine/assets/130389283/7c411517-10f4-4ea7-90b5-351427ab3adf
-
- 
